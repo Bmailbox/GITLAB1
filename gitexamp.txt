@@ -1,1 +1,2 @@
 this is a test, is a very nice
+This is a new line, this will be merged, very nice 
